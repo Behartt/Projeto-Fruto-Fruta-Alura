@@ -1,0 +1,9 @@
+<h1>Sistema de Cadastro de Jogos</h1>
+
+> Status do projeto: Em Desenvolvimento
+
+Para rodar esse projeto na sua maquina, pr favor digite:
+
+```
+npm install react
+```

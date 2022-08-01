@@ -1,0 +1,24 @@
+@import url(/assets/css/receita/receita.css);
+@import url(/assets/css/receita/receita__img.css);
+@import url(/assets/css/receita/receita__conteudo.css);
+@import url(/assets/css/receita/receita__titulo.css);
+@import url(/assets/css/receita/receita__texto.css);
+@import url(/assets/css/receita/receita__botao.css);
+
+
+
+.receitas{
+    background-color: #E5E5E5;
+    padding: 5rem 0 0 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+

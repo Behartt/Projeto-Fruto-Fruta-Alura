@@ -1,0 +1,8 @@
+.cabecalho__menu-item{
+    list-style: none;
+    margin-left: 2rem;
+}
+
+.cabecalho__menu-item:first-child{
+    margin-left: 0;
+}

@@ -1,0 +1,14 @@
+.cabecalho__menu-link{
+    color: #808080;
+    text-decoration: none;
+}
+
+.cabecalho__menu-link.ativo{
+    color: #333333;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.cabecalho__menu-link:hover{
+    text-decoration: underline;
+}

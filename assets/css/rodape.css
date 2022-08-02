@@ -1,0 +1,22 @@
+.rodape{
+    background-color: #C4C4C4;
+    text-align: end;
+    padding: 0.5rem 3rem;
+}
+
+.rodape__texto{
+    color: #fdfdfd;
+    font-size: 32px;
+}
+
+
+@media screen and (max-width: 798px){
+    .rodape{
+        padding: 0.2rem 1rem;
+    }
+
+    .rodape__texto{
+        font-size: 18px;
+    }
+
+}

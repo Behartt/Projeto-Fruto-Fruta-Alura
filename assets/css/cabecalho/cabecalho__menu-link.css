@@ -12,3 +12,9 @@
 .cabecalho__menu-link:hover{
     text-decoration: underline;
 }
+
+@media screen and (max-width: 798px){
+   .cabecalho__menu-link{
+    font-size: 14px;
+   }
+}

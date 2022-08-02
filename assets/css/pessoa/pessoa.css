@@ -1,0 +1,16 @@
+@import url("/assets/css/pessoa/pessoa__caixa.css");
+@import url("/assets/css/pessoa/pessoa__imagem.css");
+@import url("/assets/css/pessoa/pessoa__nome.css");
+@import url("/assets/css/pessoa/pessoa__texto.css");
+
+
+.pessoa{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px){
+    .pessoa{
+        flex-direction: column;
+    }   
+}

@@ -1,0 +1,11 @@
+.pessoa__caixa{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+
+@media screen and (max-width: 1024px){
+    .pessoa__caixa{
+        margin-bottom: 2rem;
+    }   
+}

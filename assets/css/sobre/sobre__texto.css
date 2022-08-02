@@ -2,3 +2,9 @@
     color: #8C8888;
     font-size: 1.750rem;
 }
+
+@media screen and (max-width: 1024px) {
+    .sobre__texto{
+        font-size: 1.3rem;
+    }   
+}
